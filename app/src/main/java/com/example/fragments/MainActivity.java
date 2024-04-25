@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         cargarFragmentDetail();
 
-
+//prueba cambio
 
     }
 
